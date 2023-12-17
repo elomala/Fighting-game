@@ -12,7 +12,7 @@ There are multiple functionalities in the game which are described below:<br>
       <li><b>Walkspeed:</b> Every class has a different walkspeed depending on its play style. Classes with high health usually have low walkspeed and vice versa.</li><img src="/Pictures/Basic.png" alt="basic" title="Basic Stuff">
     </ul>
     <li><b>Attacking:</b></li>
-  A specific class has an auto combo, a guardbreak, and four special attacks. Details can be seen on the <a href="https://trello.com/b/XfQLXXVA/fighting-game">Trello</a> page.<br>
+  A specific class has an auto combo, a guardbreak, and three special attacks. Details can be seen on the <a href="https://trello.com/b/XfQLXXVA/fighting-game">Trello</a> page.<br>
     Here are some snapshots of epic moves!
     <img src="/Pictures/PoorZombie.png" alt="Zombie" title="Poor Zombie getting hit by big punch!">
     <img src="/Pictures/sheriff.jpg" alt="sheriff" title="Sherrif using his guardbreak">
