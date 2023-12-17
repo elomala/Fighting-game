@@ -24,3 +24,5 @@ There are multiple functionalities in the game which are described below:<br>
     <li><b>Effects:</b></li>
     There are different buffs and debuffs in the game. Description is available in the <a href="https://trello.com/c/rA2oXg8P/5-effects">Trello</a>
 </ul>
+<h2><b>Setting Up:</b></h2>
+The game and scripts can be set up easily by the following steps:
