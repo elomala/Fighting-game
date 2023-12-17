@@ -8,8 +8,7 @@ There are multiple functionalities in the game which are described below:<br>
 <ul>
     <li><b>Basic Stats:</b></li>
     <ul> 
-      <li><b>Health:</b> Amount of Damage a player can take before dying</li>
-        <li><b>Health Regeneration:</b> Regeneration starts after 7 seconds of not being attacked. The amount of health regenerated per tick depends upon the player's max health and missing health.</li>
+      <li><b>Health:</b> Amount of Damage a player can take before dying. Regeneration starts if not attacked for some time.</li>
       <li><b>Stamina:</b> Some functions like jumping and dashing require stamina. Stamina regeneration depends on health to prevent players from running easily.</li>
       <li><b>Walkspeed:</b> Every class has a different walkspeed depending on its play style. Classes with high health usually have low walkspeed and vice versa.</li><img src="/Pictures/Basic.png" alt="basic" title="Basic Stuff">
     </ul>
