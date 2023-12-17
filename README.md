@@ -21,4 +21,6 @@ There are multiple functionalities in the game which are described below:<br>
     <img src="/Pictures/PoorZombie.png" alt="Zombie" title="Poor Zombie getting hit by big punch!">
     <img src="/Pictures/sheriff.jpg" alt="sheriff" title="Sherrif using his guardbreak">
     <img src="/Pictures/Savage.png" alt="Savage" title="Savage charging his attack">
+    <li><b>Effects:</b></li>
+    There are different buffs and debuffs in the game. Description is available in the <a href="https://trello.com/b/XfQLXXVA/fighting-game">Trello</a>
 </ul>
