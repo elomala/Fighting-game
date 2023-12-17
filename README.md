@@ -25,4 +25,5 @@ There are multiple functionalities in the game which are described below:<br>
     There are different buffs and debuffs in the game. Description is available in the <a href="https://trello.com/c/rA2oXg8P/5-effects">Trello</a>
 </ul>
 <h2><b>Setting Up:</b></h2>
+NOTE: Roblox doesn't allow users to share animations. You will have to animate the moves of the character yourself.
 The game and scripts can be set up easily by the following steps:
