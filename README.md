@@ -2,7 +2,7 @@
 This is a <a href="https://www.roblox.com/games/2166055981/Fighting-game">project</a> I started working on in late 2022. This is one of my very first projects in which I knew what I was doing.<br>
 I made multiple projects a while back but none of them were completed. <a href="https://www.roblox.com/games/2166055981/Fighting-game">This game</a> is also, not complete but it is playable.
 <br>This game has a <a href="https://trello.com/b/XfQLXXVA/fighting-game">Trello</a> which describes the abilities of the classes. You can also access the info in-game.<br>
-In this repository, I shall be uploading the hit-handler script that I wrote and example code for a class. I used a module named <b>MuchachoHitbox</b> for basic hitbox generation. Everything else in this game is made by me. The hitboxes and hit detection are all server-sided.
+I used a module named <b>MuchachoHitbox</b> for basic hitbox generation. Everything else in this game is made by me. The hitboxes and hit detection are all server-sided.
 <h2>Fighting System</h2>
 There are multiple functionalities in the game which are described below:<br>
 <ul>
@@ -26,4 +26,4 @@ There are multiple functionalities in the game which are described below:<br>
 </ul>
 <h2><b>Setting Up:</b></h2>
 NOTE: Roblox doesn't allow users to share animations. You will have to animate the moves of the character yourself.
-The game and scripts can be set up easily by the following steps:
+Just download the game file and you are good to go. Edit whatever you like!
