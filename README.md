@@ -24,6 +24,9 @@ There are multiple functionalities in the game which are described below:<br>
     <li><b>Effects:</b></li>
     There are different buffs and debuffs in the game. Description is available in the <a href="https://trello.com/c/rA2oXg8P/5-effects">Trello</a>
 </ul>
-<h2><b>Setting Up:</b></h2>
-Just download the game file and you are good to go. Edit whatever you like!
-<br>NOTE: Roblox doesn't allow users to share animations. You will have to animate the moves of the character yourself.
+<h2><b>Credits:</b></h2>
+<ul>
+    <li><b></b><a href="https://rojo.space/">Rojo</a></li>
+    <li><b></b><a href="https://github.com/rojo-rbx/rbxlx-to-rojo">rbxlx to rojo</a></li>
+    <li><b></b><a href="https://www.roblox.com/games/2166055981/Fighting-game">Game Link</a></li>
+</ul>
