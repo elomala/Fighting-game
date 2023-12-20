@@ -28,7 +28,7 @@ There are multiple functionalities in the game which are described below:<br>
 <ul>
     <li><b></b><a href="https://rojo.space/">Rojo</a></li>
     <li><b></b><a href="https://github.com/rojo-rbx/rbxlx-to-rojo">rbxlx to rojo</a></li>
-    li><b></b><a href="https://create.roblox.com/marketplace/asset/9645263113">Muchacho Hitbox</a></li>
+    <li><b></b><a href="https://create.roblox.com/marketplace/asset/9645263113">Muchacho Hitbox</a></li>
     <li><b></b><a href="https://www.roblox.com/games/2166055981/Fighting-game">Game Link</a></li>
     <i>NOTE: I haven't completely commented the code in this repository. I am slowly trying to comment the code whenever I get time so that readers can easily understand what the code means.</i>
 </ul>
