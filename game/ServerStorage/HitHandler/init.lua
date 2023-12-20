@@ -48,7 +48,7 @@ end
 
 function module.hit(hum:Humanoid, dmg:number, dur:number, kb:Vector3, gb:boolean, charac:Model, passthrough:boolean, hittype:string, blockanywhere:boolean, ignoreiframe:boolean, dmgviewrange:number, blockstun:number)
 	if not hum or not hum.Parent then return end
-	if hum.Parent:GetAttribute("iframes") and not ignoreiframe then return end
+	if hum.Parent:GetAttribute("iframes") and not ignoreiframe then return end 
 	local blocking = hum.Parent:GetAttribute("Blocking")
 	local broken = false
 	local rootpart = hum.RootPart
@@ -72,7 +72,7 @@ function module.hit(hum:Humanoid, dmg:number, dur:number, kb:Vector3, gb:boolean
 				if damaged then
 					damaged.Value = os.time()
 				end
-				if blockstun ~= nil then
+				if blockstun ~= nil then -- the player blocking can't do anything for a short duration after being hit. Made so to prevent easy counters.
 					stunhandler.Stun(hum, blockstun)
 					local bar = game.ReplicatedStorage:WaitForChild("vfx"):WaitForChild("misc"):WaitForChild("stunbar"):Clone()
 					game.Debris:AddItem(bar, blockstun)
@@ -83,9 +83,9 @@ function module.hit(hum:Humanoid, dmg:number, dur:number, kb:Vector3, gb:boolean
 				return true
 			end
 		else
-			local Front, Behind	= rootpart.CFrame * CFrame.new(0, 0, -1), rootpart.CFrame * CFrame.new(0, 0, 1.5)
+			local Front, Behind	= rootpart.CFrame * CFrame.new(0, 0, -1), rootpart.CFrame * CFrame.new(0, 0, 1.5) -- checks if the attack is from front or behind
 			if (attackerrootpart.Position - Front.Position).Magnitude > (attackerrootpart.Position - Behind.Position).Magnitude then
-				back = true
+				back = true -- bypasses block
 			else
 				hitvfx(rootpart, true)
 				if blocking and not passthrough then
